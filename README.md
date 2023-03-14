@@ -6,6 +6,7 @@
 # 나의 소개
 
 안녕하세요. 동미입니다.
+
 <img src="https://dongmisw.github.io/dm.JPG"/><br>
 
 # 나의 동아리 소개
