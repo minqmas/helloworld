@@ -21,3 +21,6 @@
 전국 대학생 IT 아이디어 대회
 [대상 수상작 발표자료](presentation.ppt)
  
+ 
+ 발표동영상
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/hxd9GzjDQV0" title="[DMU] 미래를 보고 시대를 선도하는 대학, 동양미래대학교" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
