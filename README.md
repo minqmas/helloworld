@@ -17,9 +17,9 @@
 
 자바 프로그래밍
 
-# 공모전 수상현황
+# 공모전 수상현황[대상 수상자 발표자료.pptx](https://github.com/minqmas/helloworld/files/10963369/default.pptx)
 전국 대학생 IT 아이디어 대회
-[대상 수상작 발표자료](presentation.ppt)
+[대상 수상작 발표자료]
  
  
  발표동영상
